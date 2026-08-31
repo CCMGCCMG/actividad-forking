@@ -1,5 +1,5 @@
 TECNOLOGÍAS
 
-Tecnologías conocidas:
+Tecnologías conocidas: SQL, PYTHON
 
-Tecnologías que deseo aprender:
+Tecnologías que deseo aprender: JAVA, JAVASCRIPT
