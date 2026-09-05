@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: Cristian Giovanni Castro Montano
 Carrera: Ingenieria Informatica
 Semestre: 5to
+Mencion: Telematica
